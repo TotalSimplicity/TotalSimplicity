@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Discord: totalsimplicity
+Email: leonardo.kulon@gmail.com
 <!--
 **TotalSimplicity/TotalSimplicity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
